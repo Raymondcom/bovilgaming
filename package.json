@@ -1,5 +1,5 @@
 {
-  "name": "games-wabot",
+  "name": "GMX-Md",
   "version": "0.9.8",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/BochilGaming/games-wabot",
   "author": {
-    "name": "BochilGaming"
+    "name": "Raymond GMX"
   },
   "repository": {
     "type": "git",
